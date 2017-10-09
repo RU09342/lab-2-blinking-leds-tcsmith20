@@ -1,6 +1,8 @@
 # Simple Blink
 The purpose of this excercise is to dive into the world of embedded systems by blinking an LED. It is a trivial task that will be used for future labs and excercises.
 
+![alt text](https://github.com/RU09342/lab-2-blinking-leds-tcsmith20/blob/master/Simple%20Blink/Simple%20Blink.gif)
+
 ## How Does The Code Work
 Using the MSP430 library I created, it was easy to implement all five required processors into one main.c file. The main method disables the watchdog timer, initializes the processors setup and both LEDs (This is all done through the Library). LED1 is turned on and LED2 is turned off to stagger their initial states and then an infinite while loop runs which toggles LED1, toggles LED2 and then delays. This creates a 50% duty cycle for both LED1 and LED2. The LEDs will blink one after the other until the program is stopped.
 
