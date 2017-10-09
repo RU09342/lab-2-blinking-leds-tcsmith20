@@ -26,7 +26,7 @@ void TimerA_Init(int clock_sel, int clock_mode, int clock_div, unsigned int comp
     timerA.counter_reg = counterA_reg;
     timerA.ccr0_reg = ccr0A_reg;
     timerA.ccr0_control_reg = ccr0A_control_reg;
-    timerA.ccr1_reg = ccr0A_reg;
+    timerA.ccr1_reg = ccr1A_reg;
     timerA.ccr1_control_reg = ccr1A_control_reg;
     timerA.clk = Timer_SetClock(clock_sel);
     timerA.divider = Timer_SetDivider(clock_div);
@@ -107,7 +107,7 @@ void TimerB_Init(int clock_sel, int clock_mode, int clock_div, unsigned int comp
     timerB.counter_reg = counterB_reg;
     timerB.ccr0_reg = ccr0B_reg;
     timerB.ccr0_control_reg = ccr0B_control_reg;
-    timerB.ccr1_reg = ccr0A_reg;
+    timerB.ccr1_reg = ccr1B_reg;
     timerB.ccr1_control_reg = ccr1B_control_reg;
     timerB.clk = Timer_SetClock(clock_sel);
     timerB.divider = Timer_SetDivider(clock_div);

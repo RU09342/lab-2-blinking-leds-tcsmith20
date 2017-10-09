@@ -35,8 +35,8 @@
     unsigned int inclk =                            TASSEL_3;
 
     unsigned int off =                              MC_0;
-    unsigned int continuous =                       MC_1;
-    unsigned int up =                               MC_2;
+    unsigned int up =                               MC_1;
+    unsigned int continuous =                       MC_2;
     unsigned int up_down =                          MC_3;
 
     unsigned int divider_1 =                        ID_0;
@@ -59,8 +59,8 @@
     unsigned int inclk =                            TASSEL_3;
 
     unsigned int off =                              MC_0;
-    unsigned int continuous =                       MC_1;
-    unsigned int up =                               MC_2;
+    unsigned int up =                               MC_1;
+    unsigned int continuous =                       MC_2;
     unsigned int up_down =                          MC_3;
 
     unsigned int divider_1 =                        ID_0;
@@ -83,8 +83,8 @@
     unsigned int inclk =                            TBSSEL_3;
 
     unsigned int off =                              MC_0;
-    unsigned int continuous =                       MC_1;
-    unsigned int up =                               MC_2;
+    unsigned int up =                               MC_1;
+    unsigned int continuous =                       MC_2;
     unsigned int up_down =                          MC_3;
 
     unsigned int divider_1 =                        ID_0;
@@ -107,8 +107,8 @@
     unsigned int inclk =                            TASSEL_3;
 
     unsigned int off =                              MC_0;
-    unsigned int continuous =                       MC_1;
-    unsigned int up =                               MC_2;
+    unsigned int up =                               MC_1;
+    unsigned int continuous =                       MC_2;
     unsigned int up_down =                          MC_3;
 
     unsigned int divider_1 =                        ID_0;
@@ -131,8 +131,8 @@
     unsigned int inclk =                            TASSEL_3;
 
     unsigned int off =                              MC_0;
-    unsigned int continuous =                       MC_1;
-    unsigned int up =                               MC_2;
+    unsigned int up =                               MC_1;
+    unsigned int continuous =                       MC_2;
     unsigned int up_down =                          MC_3;
 
     unsigned int divider_1 =                        ID_0;
