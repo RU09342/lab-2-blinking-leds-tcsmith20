@@ -1,4 +1,4 @@
-# Off-Board Blink Blink
+# Off-Board Blink
 The purpose of this excercise is to dive into the world of embedded systems by blinking an LED. It is a trivial task that will be used for future labs and excercises. This excerise will add an extra step to Simple Blink by taking the MSP430G2553 processor off the dev board and onto a bread board.
 
 ![alt text](https://github.com/RU09342/lab-2-blinking-leds-tcsmith20/blob/master/Off_Board%20Blink/Offboard%20Blink.gif)
